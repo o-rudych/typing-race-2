@@ -1,4 +1,4 @@
-import Car from './Car';
+import Car from './car';
 import IResource from './resourse';
 
 export default class ResourceFactory {
